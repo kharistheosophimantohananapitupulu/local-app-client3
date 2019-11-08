@@ -1,0 +1,45 @@
+.daterangepicker {
+    position: absolute;
+    display: flex;
+    color: inherit;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 4px;
+    margin-top: 1px;
+    top: 100px;
+    left: 20px;
+    max-width: 680px;
+    z-index: 3001;
+    border: 1px solid rgba(0,0,0,0.15);
+    background-clip: padding-box;
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+.daterangepicker {
+   
+    flex-direction: row-reverse;
+  }
+ 
+  .daterangepicker {
+    position: absolute;
+    display: flex;
+    color: inherit;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 4px;
+    margin-top: 1px;
+    top: 100px;
+    left: 20px;
+    max-width: 680px;
+    z-index: 3001;
+    border: 1px solid rgba(0,0,0,0.15);
+    background-clip: padding-box;
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+.daterangepicker {
+   
+    flex-direction: row-reverse;
+  }
+ 
+ 
